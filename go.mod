@@ -1,3 +1,3 @@
-module verginer.eu/minserver
+module verginer/goserve
 
 go 1.16
